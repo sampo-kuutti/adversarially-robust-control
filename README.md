@@ -13,7 +13,7 @@ For further details see the paper: https://arxiv.org/abs/2107.04487
 Clone the repo
 
 ```bash
-git clone https://github.com/sampo-kuutti/adversarially-robust-control/.git
+git clone https://github.com/sampo-kuutti/adversarially-robust-control
 ```
 
 install requirements:
