@@ -1,0 +1,2 @@
+model_checkpoint_path: "/vol/research/safeav/Sampo/condor-a2c/test/log_arl/c117923_p0/model-ep-2500-finalr-3771.ckpt"
+all_model_checkpoint_paths: "/vol/research/safeav/Sampo/condor-a2c/test/log_arl/c117923_p0/model-ep-2500-finalr-3771.ckpt"
